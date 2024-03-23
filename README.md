@@ -31,7 +31,7 @@
 ### 🛠️Languages and Tools
 <div>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://www.r-project.org/logo/Rlogo.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" title="SAS" alt="SAS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" title="ArcGIS" alt="ArcGIS" width="40" height="40"/>&nbsp;
