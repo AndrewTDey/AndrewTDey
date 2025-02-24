@@ -16,18 +16,21 @@
 </h1>
   
 <h2 align="center" size="50">  
-  I'm an epidemiologist with a passion for using data to improve our world!
+  I'm a data scientist with a passion for using data-driven insight to improve our world!
 </h2>
 <div align="center">
   
 <h2>
  About Me
 </h2>
- :telescope: I work as a data analyst and statistician researching the effects of our environment our health
+ :telescope: I work as a data analyst and statistician researching the effects of our environment our health and as a bus driver
   
   :zap: I interact with several types of data: Electronic Health Record, Geospatial, Natural Language Processing, and Image  
+  :airplane: A decade of working in transportation gives me a unique perspective on the human impact of data analytics
+  :computer: I can code with Python, SQL, SAS, R, PowerShell, and GIS 
+  :compass: I have learned to speak 7 languages in my travels around the world
   :seedling: I am always eager to learn new techniques, skills, and languages!
-
+  
 
 
 
