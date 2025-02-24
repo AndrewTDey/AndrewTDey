@@ -23,12 +23,18 @@
 <h2>
  About Me
 </h2>
- :telescope: I work as a data analyst and statistician researching the effects of our environment our health and as a bus driver
+ :telescope: I work as a data analyst researching the effects of the world around us on our health 
+
+:bus: I also work as a bus driver!
   
-  :zap: I interact with several types of data: Electronic Health Record, Geospatial, Natural Language Processing, and Image  
+  :zap: I interact with several types of data: Electronic Health Record, Geospatial, Unstructured, Natural Language Processing, and Image  
+  
   :airplane: A decade of working in transportation gives me a unique perspective on the human impact of data analytics
+  
   :computer: I can code with Python, SQL, SAS, R, PowerShell, and GIS 
+  
   :compass: I have learned to speak 7 languages in my travels around the world
+  
   :seedling: I am always eager to learn new techniques, skills, and languages!
   
 
